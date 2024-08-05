@@ -24,4 +24,4 @@ If you want to debug the server, firstly use build script to build the sandbox l
 Refer to the [FAQ document](FAQ.md)
 
 ## Workflow
-![image](sandbox.png)
+![image](workflow.png)
